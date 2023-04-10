@@ -509,3 +509,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 913.737220 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f74b9f0782f3ffe8a654b2b60a9f33c') in 0.045220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.174735 seconds.
+  path: Assets/Perfabs/Bad 1.prefab
+  artifactKey: Guid(18112bf4dcaaf45de8e11267ab8fb407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perfabs/Bad 1.prefab using Guid(18112bf4dcaaf45de8e11267ab8fb407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e48c7aedc306e8f778fc4e4c5d936b') in 0.080179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.559416 seconds.
+  path: Assets/Perfabs/Bad 1.prefab
+  artifactKey: Guid(18112bf4dcaaf45de8e11267ab8fb407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perfabs/Bad 1.prefab using Guid(18112bf4dcaaf45de8e11267ab8fb407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd283c96c7a68469840cdad8d80a40e79') in 0.069905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.514677 seconds.
+  path: Assets/Perfabs/Bad 1.prefab
+  artifactKey: Guid(18112bf4dcaaf45de8e11267ab8fb407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perfabs/Bad 1.prefab using Guid(18112bf4dcaaf45de8e11267ab8fb407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6fc895e1d7e279d3b53cb546e7efec') in 0.018958 seconds 
